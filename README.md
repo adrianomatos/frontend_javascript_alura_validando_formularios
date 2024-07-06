@@ -1,9 +1,8 @@
-<p align="center"> <img src="https://imgur.com/mIBmcEL.png" alt="Javascript: validando formulários"> </p>
+# <p align="center">Javascript: validando formulários (Formulário de criação de contas para o banco virtual MoniBank). </p>
+
+<p align="center"> <img src="https://github.com/adrianomatos/frontend_javascript_alura_validando_formularios/blob/main/CONTA2.png" alt="Javascript: validando formulários"> </p>
 
 <hr>
-
-<p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
-<p align="center">Formulário de criação de contas para o banco virtual MoniBank.</p>
 
 ## Tecnologias utilizadas durante o curso
 * JavaScript
@@ -41,3 +40,10 @@ Criar mensagens customizadas;
 Remover o comportamento padrão de erro do HTML;
 Mostrar as mensagens customizadas na página;
 Salvar dados no localStorage.
+
+- 5 - CAPTURANDO FOTOS
+Iniciar camêra do usuário no navegador;
+Capturar fotografia;
+Lidar com eventos de click;
+Aplicar um fluxo de navegação escondendo e mostrando elementos;
+Inserir novos dados no localStorage.
